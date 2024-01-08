@@ -9,15 +9,11 @@ namespace SayHello___EndPoint.Controllers;
 public class SayHelloController : ControllerBase
 {
    
-
-public List<string> nameList = new();
-
     [HttpGet]
     [Route("AddName/{userName}")]
-    public List<string> AddName(string userName)
+    public string AddName(string userName)
     {
-        nameList.Add("Hello " + userName);
-        return nameList;
+        return $"Hello {userName}";
     }
 
 }

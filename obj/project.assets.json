@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Orteg\\Documents\\SayHello - EndPoint\\SayHello - EndPoint.csproj",
+      "projectUniqueName": "C:\\Users\\Orteg\\Documents\\GitRepository\\SayHello_EndPoint\\SayHello - EndPoint.csproj",
       "projectName": "SayHello - EndPoint",
-      "projectPath": "C:\\Users\\Orteg\\Documents\\SayHello - EndPoint\\SayHello - EndPoint.csproj",
+      "projectPath": "C:\\Users\\Orteg\\Documents\\GitRepository\\SayHello_EndPoint\\SayHello - EndPoint.csproj",
       "packagesPath": "C:\\Users\\Orteg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Orteg\\Documents\\SayHello - EndPoint\\obj\\",
+      "outputPath": "C:\\Users\\Orteg\\Documents\\GitRepository\\SayHello_EndPoint\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Orteg\\AppData\\Roaming\\NuGet\\NuGet.Config"
