@@ -1,0 +1,33 @@
+C:\Users\Orteg\Documents\SayHello - EndPoint\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Orteg\Documents\SayHello - EndPoint\bin\Debug\net7.0\appsettings.json
+C:\Users\Orteg\Documents\SayHello - EndPoint\bin\Debug\net7.0\SayHello - EndPoint.exe
+C:\Users\Orteg\Documents\SayHello - EndPoint\bin\Debug\net7.0\SayHello - EndPoint.deps.json
+C:\Users\Orteg\Documents\SayHello - EndPoint\bin\Debug\net7.0\SayHello - EndPoint.runtimeconfig.json
+C:\Users\Orteg\Documents\SayHello - EndPoint\bin\Debug\net7.0\SayHello - EndPoint.dll
+C:\Users\Orteg\Documents\SayHello - EndPoint\bin\Debug\net7.0\SayHello - EndPoint.pdb
+C:\Users\Orteg\Documents\SayHello - EndPoint\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Orteg\Documents\SayHello - EndPoint\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Orteg\Documents\SayHello - EndPoint\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Orteg\Documents\SayHello - EndPoint\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Orteg\Documents\SayHello - EndPoint\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Orteg\Documents\SayHello - EndPoint\obj\Debug\net7.0\SayHello - EndPoint.csproj.AssemblyReference.cache
+C:\Users\Orteg\Documents\SayHello - EndPoint\obj\Debug\net7.0\SayHello - EndPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orteg\Documents\SayHello - EndPoint\obj\Debug\net7.0\SayHello - EndPoint.AssemblyInfoInputs.cache
+C:\Users\Orteg\Documents\SayHello - EndPoint\obj\Debug\net7.0\SayHello - EndPoint.AssemblyInfo.cs
+C:\Users\Orteg\Documents\SayHello - EndPoint\obj\Debug\net7.0\SayHello - EndPoint.csproj.CoreCompileInputs.cache
+C:\Users\Orteg\Documents\SayHello - EndPoint\obj\Debug\net7.0\SayHello - EndPoint.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Orteg\Documents\SayHello - EndPoint\obj\Debug\net7.0\SayHello - EndPoint.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Orteg\Documents\SayHello - EndPoint\obj\Debug\net7.0\staticwebassets\msbuild.SayHello - EndPoint.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Orteg\Documents\SayHello - EndPoint\obj\Debug\net7.0\staticwebassets\msbuild.build.SayHello - EndPoint.props
+C:\Users\Orteg\Documents\SayHello - EndPoint\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SayHello - EndPoint.props
+C:\Users\Orteg\Documents\SayHello - EndPoint\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SayHello - EndPoint.props
+C:\Users\Orteg\Documents\SayHello - EndPoint\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Orteg\Documents\SayHello - EndPoint\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Orteg\Documents\SayHello - EndPoint\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Orteg\Documents\SayHello - EndPoint\obj\Debug\net7.0\scopedcss\bundle\SayHello - EndPoint.styles.css
+C:\Users\Orteg\Documents\SayHello - EndPoint\obj\Debug\net7.0\SayHello - EndPoint.csproj.CopyComplete
+C:\Users\Orteg\Documents\SayHello - EndPoint\obj\Debug\net7.0\SayHello - EndPoint.dll
+C:\Users\Orteg\Documents\SayHello - EndPoint\obj\Debug\net7.0\refint\SayHello - EndPoint.dll
+C:\Users\Orteg\Documents\SayHello - EndPoint\obj\Debug\net7.0\SayHello - EndPoint.pdb
+C:\Users\Orteg\Documents\SayHello - EndPoint\obj\Debug\net7.0\SayHello - EndPoint.genruntimeconfig.cache
+C:\Users\Orteg\Documents\SayHello - EndPoint\obj\Debug\net7.0\ref\SayHello - EndPoint.dll
